@@ -243,6 +243,7 @@
   "components.card-metrics-overview.new-organizations": "New orgs",
   "components.card-search-result-organization.img-alt-text": "The organization logo of",
   "components.card-search-result.event-img-alt-text": "The event logo of",
+  "components.card_search_result.view_video": "View video",
   "components.card-topic-selection.header": "Topics",
   "components.card-topic-selection.hide-all-topics": "Hide all topics",
   "components.card-topic-selection.selector-placeholder": "Type to filter topics",
